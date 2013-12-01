@@ -11,7 +11,7 @@
   "license": "MIT",
   "keywords": [
     "hubot",
-    "cron"
+    "hubot-dragonball"
   ],
   "dependencies": {
     "coffee-script": ">= 1.1.0"
