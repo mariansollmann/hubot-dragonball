@@ -1,19 +1,19 @@
 {
-  "author": "Marian Sollmann",
-  "name": "hubot-dragonball",
-  "version": "0.0.3",
-  "description": "The Dragonball Image Generator",
-  "homepage": "https://github.com/mariansollmann/hubot-dragonball",
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:mariansollmann/hubot-dragonball.git"
-  },
-  "license": "MIT",
-  "keywords": [
-    "hubot",
-    "hubot-dragonball"
-  ],
-  "dependencies": {
-    "coffee-script": ">= 1.1.0"
-  }
+	"author": "Marian Sollmann",
+	"name": "hubot-dragonball",
+	"main": "./src/dragonball",
+	"version": "0.0.4",
+	"description": "The Dragonball Image Generator",
+	"homepage": "https://github.com/mariansollmann/hubot-dragonball",
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:mariansollmann/hubot-dragonball.git"
+	},
+	"license": "MIT",
+	"keywords": [
+		"hubot", "hubot-dragonball"
+	],
+	"dependencies": {
+		"coffee-script": ">= 1.1.0"
+	}
 }
