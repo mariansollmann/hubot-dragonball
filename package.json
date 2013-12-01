@@ -1,7 +1,7 @@
 {
   "author": "Marian Sollmann",
   "name": "hubot-dragonball",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The Dragonball Image Generator",
   "homepage": "https://github.com/mariansollmann/hubot-dragonball",
   "repository": {
