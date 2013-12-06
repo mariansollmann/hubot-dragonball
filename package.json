@@ -14,7 +14,7 @@
 	"license": "MIT",
 	"keywords": ["hubot", "hubot-dragonball", "dragonball"],
 	"scripts": {
-		"test": "mocha -R spec test/*.js"
+		"test": "script/test"
 	},
 	"dependencies": {
 		"coffee-script": ">= 1.1.0",
