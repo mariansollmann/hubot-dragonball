@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/mariansollmann/hubot-dragonball.png?branch=master)](https://travis-ci.org/mariansollmann/hubot-dragonball)
+
 # Hubot-Dragonball
 
 The Dragonball Image Generator.
