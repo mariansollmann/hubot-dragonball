@@ -8,9 +8,21 @@
 		"type": "git",
 		"url": "git@github.com:mariansollmann/hubot-dragonball.git"
 	},
+	"bugs": {
+		"url": "https://github.com/mariansollmann/hubot-dragonball/issues"
+	},
 	"license": "MIT",
 	"keywords": ["hubot", "hubot-dragonball", "dragonball"],
+	"scripts": {
+		"test": "mocha -R spec test/*.js"
+	},
 	"dependencies": {
 		"coffee-script": ">= 1.1.0"
+	},
+	"devDependencies": {
+		"mocha": "*",
+		"chai": "*",
+		"sinon-chai": "*",
+		"sinon": "*"
 	}
 }
