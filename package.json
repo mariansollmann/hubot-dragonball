@@ -17,12 +17,13 @@
 		"test": "mocha -R spec test/*.js"
 	},
 	"dependencies": {
-		"coffee-script": ">= 1.1.0"
-	},
-	"devDependencies": {
+		"coffee-script": ">= 1.1.0",
 		"mocha": "*",
 		"chai": "*",
 		"sinon-chai": "*",
 		"sinon": "*"
+	},
+	"devDependencies": {
+
 	}
 }
