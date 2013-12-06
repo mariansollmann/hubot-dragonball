@@ -9,9 +9,7 @@
 		"url": "git@github.com:mariansollmann/hubot-dragonball.git"
 	},
 	"license": "MIT",
-	"keywords": [
-		"hubot", "hubot-dragonball", "dragonball"
-	],
+	"keywords": ["hubot", "hubot-dragonball", "dragonball"],
 	"dependencies": {
 		"coffee-script": ">= 1.1.0"
 	}
