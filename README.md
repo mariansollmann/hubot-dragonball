@@ -1,6 +1,5 @@
-[![Build Status](https://travis-ci.org/mariansollmann/hubot-dragonball.png?branch=master)](https://travis-ci.org/mariansollmann/hubot-dragonball)
-
-# Hubot-Dragonball
+Hubot-Dragonball  [![Build Status](https://travis-ci.org/mariansollmann/hubot-dragonball.png?branch=master)](https://travis-ci.org/mariansollmann/hubot-dragonball) [<img src="http://madeinbasel.github.io/img/logo/SVG/MadeInBasel-landscape.svg" width="100"/>](http://madeinbasel.org)
+================
 
 The Dragonball Image Generator.
 
