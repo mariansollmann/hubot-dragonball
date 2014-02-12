@@ -9,7 +9,7 @@ Add hubot-dragonball to your `package.json` dependencies.
 
 ```
 "dependencies": {
-  "hubot-dragonball": ">= 0.0.5"
+  "hubot-dragonball": ">= 1.0.1"
 }
 ```
 

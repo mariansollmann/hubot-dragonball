@@ -1,7 +1,7 @@
 {
 	"name": "hubot-dragonball",
 	"description": "The Dragonball Image Generator.",
-	"version": "0.0.5",
+	"version": "1.0.1",
 	"author": "Marian Sollmann",
 	"license": "MIT",
 
