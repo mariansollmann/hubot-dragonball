@@ -8,9 +8,8 @@ describe 'Dragonball: ', ->
 	beforeEach ->
 		@robot =
 			respond: sinon.spy()
-			hear: sinon.spy()
-		@msg =
-			send: sinon.spy()
-			random: sinon.spy()
 
 		require('../src/dragonball')(@robot)
+
+	it 'registers a respond listener', ->
+		expect(@robot.respond).to.have.been.calledWith(/dragonball(.*)$/)
